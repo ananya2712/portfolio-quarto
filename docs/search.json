@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "blog_landing.html",
+    "href": "blog_landing.html",
+    "title": "Ananya Uppal",
+    "section": "",
+    "text": "I’m currently working on some exciting technical content for my blog.\nWhat to expect:\n\nDeep dives into AI and machine learning concepts\nTechnical tutorials and code walkthroughs\nResearch insights and industry trends\nPersonal experiences and learnings\n\nStay tuned for updates! In the meantime, feel free to check out my projects and publications."
+  },
+  {
+    "objectID": "blog_landing.html#coming-soon",
+    "href": "blog_landing.html#coming-soon",
+    "title": "Ananya Uppal",
+    "section": "",
+    "text": "I’m currently working on some exciting technical content for my blog.\nWhat to expect:\n\nDeep dives into AI and machine learning concepts\nTechnical tutorials and code walkthroughs\nResearch insights and industry trends\nPersonal experiences and learnings\n\nStay tuned for updates! In the meantime, feel free to check out my projects and publications."
+  },
+  {
+    "objectID": "blog/2024-03-explainable-ai.html",
+    "href": "blog/2024-03-explainable-ai.html",
+    "title": "Exploring Explainable AI: Making Machine Learning Models More Transparent",
+    "section": "",
+    "text": "As AI systems become increasingly complex and widespread, the need for explainability and interpretability has never been more crucial. In this post, I’ll share insights from my research in Explainable AI (XAI) at Purdue University’s RDS Lab."
+  },
+  {
+    "objectID": "blog/2024-03-explainable-ai.html#introduction",
+    "href": "blog/2024-03-explainable-ai.html#introduction",
+    "title": "Exploring Explainable AI: Making Machine Learning Models More Transparent",
+    "section": "",
+    "text": "As AI systems become increasingly complex and widespread, the need for explainability and interpretability has never been more crucial. In this post, I’ll share insights from my research in Explainable AI (XAI) at Purdue University’s RDS Lab."
+  },
+  {
+    "objectID": "blog/2024-03-explainable-ai.html#why-explainable-ai-matters",
+    "href": "blog/2024-03-explainable-ai.html#why-explainable-ai-matters",
+    "title": "Exploring Explainable AI: Making Machine Learning Models More Transparent",
+    "section": "Why Explainable AI Matters",
+    "text": "Why Explainable AI Matters\nMachine learning models, especially deep neural networks, often operate as “black boxes.” While they can achieve impressive performance, understanding their decision-making process remains challenging. This lack of transparency can be problematic in:\n\nHealthcare decisions\nFinancial services\nLegal systems\nSecurity applications"
+  },
+  {
+    "objectID": "blog/2024-03-explainable-ai.html#current-research-directions",
+    "href": "blog/2024-03-explainable-ai.html#current-research-directions",
+    "title": "Exploring Explainable AI: Making Machine Learning Models More Transparent",
+    "section": "Current Research Directions",
+    "text": "Current Research Directions\n\n1. Feature Attribution Methods\nOne approach to explaining model decisions is understanding which input features contributed most to the output:\n# Example using SHAP values\nimport shap\nexplainer = shap.TreeExplainer(model)\nshap_values = explainer.shap_values(X)\n\n\n2. Interpretable Architectures\nSome research focuses on developing inherently interpretable models:\n\nDecision trees\nRule-based systems\nAttention mechanisms in neural networks"
+  },
+  {
+    "objectID": "blog/2024-03-explainable-ai.html#challenges-and-future-work",
+    "href": "blog/2024-03-explainable-ai.html#challenges-and-future-work",
+    "title": "Exploring Explainable AI: Making Machine Learning Models More Transparent",
+    "section": "Challenges and Future Work",
+    "text": "Challenges and Future Work\nThe field of XAI faces several challenges:\n\nBalancing accuracy with interpretability\nDeveloping standardized evaluation metrics\nMaking explanations useful for non-technical users"
+  },
+  {
+    "objectID": "blog/2024-03-explainable-ai.html#conclusion",
+    "href": "blog/2024-03-explainable-ai.html#conclusion",
+    "title": "Exploring Explainable AI: Making Machine Learning Models More Transparent",
+    "section": "Conclusion",
+    "text": "Conclusion\nAs we continue our research at the RDS Lab, we’re working on novel approaches to make AI systems more transparent and trustworthy. Stay tuned for more updates on our progress!"
+  },
+  {
+    "objectID": "blog/2024-03-explainable-ai.html#references",
+    "href": "blog/2024-03-explainable-ai.html#references",
+    "title": "Exploring Explainable AI: Making Machine Learning Models More Transparent",
+    "section": "References",
+    "text": "References\n\nMolnar, C. (2022). Interpretable Machine Learning\nRibeiro, M. T., et al. (2016). “Why Should I Trust You?: Explaining the Predictions of Any Classifier”\n\n\n\n\n\n\n\nNote\n\n\n\nThis is part of my ongoing research at Purdue University. For more information, check out my publications."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Ananya Uppal",
+    "section": "",
+    "text": "Leen | July 2025 - August 2025\n\nDesigned connectors for API-based data models to map and consolidate GRC entity, evidence, assessment, and controls data from ServiceNow GRC, OneTrust, and Archer.\nInteracted directly with customers to introduce new data fields for connector integrations in a startup environment.\n\n\n\n\n\nPalo Alto Networks | August 2023 - August 2024\n\nDeveloped comprehensive automated functional testing workflows using Jenkins for VM and hardware-based Panorama and Firewall devices.\nBoosted automated test suite to ensure critical certificate values are updated across 8 OS releases and 12 million devices.\n\n\n\n\n\nPalo Alto Networks | January 2023 - August 2023\n\nReduced automation backlog by 30%, ensuring test case integration into regression suites using pytest and gnmic.\nExpanded REST APIs in six or more PanOS releases to facilitate interaction with the PanOS UI using Selenium for streaming telemetry\n\n\n\n\n\nNasdaq | June 2022 - July 2022\n\nConducted performance-based analysis of enterprise blockchains including VMware Blockchain, Hyperledger Fabric, Hyperledger Besu, and R3 Corda for proprietary use cases\nUtilized Hyperledger Caliper for comprehensive evaluation across 17+ criteria\nAnalyzed blockchain performance metrics and provided recommendations for optimization."
+  },
+  {
+    "objectID": "projects.html#work-experience",
+    "href": "projects.html#work-experience",
+    "title": "Ananya Uppal",
+    "section": "",
+    "text": "Leen | July 2025 - August 2025\n\nDesigned connectors for API-based data models to map and consolidate GRC entity, evidence, assessment, and controls data from ServiceNow GRC, OneTrust, and Archer.\nInteracted directly with customers to introduce new data fields for connector integrations in a startup environment.\n\n\n\n\n\nPalo Alto Networks | August 2023 - August 2024\n\nDeveloped comprehensive automated functional testing workflows using Jenkins for VM and hardware-based Panorama and Firewall devices.\nBoosted automated test suite to ensure critical certificate values are updated across 8 OS releases and 12 million devices.\n\n\n\n\n\nPalo Alto Networks | January 2023 - August 2023\n\nReduced automation backlog by 30%, ensuring test case integration into regression suites using pytest and gnmic.\nExpanded REST APIs in six or more PanOS releases to facilitate interaction with the PanOS UI using Selenium for streaming telemetry\n\n\n\n\n\nNasdaq | June 2022 - July 2022\n\nConducted performance-based analysis of enterprise blockchains including VMware Blockchain, Hyperledger Fabric, Hyperledger Besu, and R3 Corda for proprietary use cases\nUtilized Hyperledger Caliper for comprehensive evaluation across 17+ criteria\nAnalyzed blockchain performance metrics and provided recommendations for optimization."
+  },
+  {
+    "objectID": "projects.html#selected-projects",
+    "href": "projects.html#selected-projects",
+    "title": "Ananya Uppal",
+    "section": "Selected Projects",
+    "text": "Selected Projects\n\nTime Sensitive Chemical Identification Tool\nDow, The Data Mine | Spring 2025\n\nDeveloped a tool to predict peroxide forming proclivity of chemicals using a multi-stage machine learning pipeline\nCollected and preprocessed data from 300+ chemicals\nTrained a multi-stage XGBoost model for accurate predictions\nDeployed the solution as a web application using R Shiny for user-friendly interface\n\n\n\n\nTweet Sentiment Analysis using Spark Streaming with Hadoop\nBig Data Project\n\nConducted sentiment analysis on streaming tweets using Spark Streaming and PySpark\nTrained multiple machine learning models (Logistic Regression, Naive Bayes, SVM) for sentiment classification\nImplemented K-means clustering for data segmentation\nOptimized model performance through hyperparameter tuning and cross-validation"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Ananya Uppal",
+    "section": "",
+    "text": "RDS Lab, Purdue University | Aug 2024 - Present\nWorking on Explainable AI research under Dr. Romila Pradhan, focusing on:\n\nDeveloping interpretable machine learning models\nInvestigating fairness and bias in AI systems\nCreating tools for AI transparency and accountability"
+  },
+  {
+    "objectID": "papers.html#research-experience",
+    "href": "papers.html#research-experience",
+    "title": "Ananya Uppal",
+    "section": "",
+    "text": "RDS Lab, Purdue University | Aug 2024 - Present\nWorking on Explainable AI research under Dr. Romila Pradhan, focusing on:\n\nDeveloping interpretable machine learning models\nInvestigating fairness and bias in AI systems\nCreating tools for AI transparency and accountability"
+  },
+  {
+    "objectID": "papers.html#conference-publications",
+    "href": "papers.html#conference-publications",
+    "title": "Ananya Uppal",
+    "section": "Conference Publications",
+    "text": "Conference Publications\n\nAn Interpretable Hybrid Recommender Based on Graph Convolution to Address Serendipity\nPublished at CCCE’23 | Presented at Stockholm, Sweden in March 2023\n\nThis research introduces a novel approach to recommendation systems by combining graph convolutional networks with traditional recommendation methods to enhance serendipity in recommendations. Key contributions include:\n\nDeveloped a 4-model hybrid architecture integrating graph convolutional networks\nFormulated a new distance-based metric for measuring recommendation serendipity\nEnhanced interpretability through KNN feature importance analysis\nDemonstrated improved recommendation diversity while maintaining accuracy\n\nView Publication View Slides\n\n\n\nRePI: Research Paper Impact Analysis\nPublished at ISDA’22 | Presented in December 2022\n\nDeveloped a comprehensive web application for analyzing research paper impact using advanced metrics and visualization techniques. Project highlights:\n\nCreated an intuitive web interface using Python and Streamlit\nIntegrated with Semantic Scholar API for comprehensive paper analysis\nDeveloped a novel impact factor ratio for publication influence measurement\nImplemented interactive visualizations for impact metrics\n\nView Publication View Demo"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ananya Uppal",
+    "section": "",
+    "text": "I’m a second-year graduate student pursuing a Master’s in Computer and Information Technology at Purdue University, West Lafayette.\nI am a member of the Responsible Data Science (RDS) Lab, where my thesis work focuses on Explainable AI with Dr. Romila Pradhan. I have also been working as a Graduate TA for the last 3 semsters: CNIT 323: Basic Cyberforensics, CNIT 392: Enterprise Data Management and CNIT 175: Intoduction to Visual Programming.\nOver the summer of 2025, I did an internship at Leen, as a Data Science Intern, where I worked on building integrations for security platforms. I previously worked as a Software Engineer at Palo Alto Networks in Bengaluru for a year in the Next Generation Firewall team, working on automation of testing workflows and adding API’s to interact with the Panorama and Firewall devices. I have also completed two other internships: one at Nasdaq, in the Enterprise Blockchain team and the other at Palo Alto Networks in the same team, before I joined as a full-time employee.\nI am a classically trained Hindustani Classical vocalist, and I was in a band called Tin Pan Alley in my undergrad. I also love watching movies and travelling.\nOn this site I keep a list of my publications, projects, and my resume, as well as a technical blog.\n\n\n\nPurdue University, West Lafayette, Indiana | 4.0/4.0\nMaster of Science in Computer and Information Technology\nCoursework: Responsible Data Science, IT Data Analytics, Human-computer Interaction, Research Methods and Artificial Intelligence.\nPES University, Bangalore, India | 9.06/10\nBachelor of Technology in Computer Science and Engineering\n6-time awardee of the MRD Scholarship (40% tuition waiver offered to top 20% students)"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Ananya Uppal",
+    "section": "",
+    "text": "I’m a second-year graduate student pursuing a Master’s in Computer and Information Technology at Purdue University, West Lafayette.\nI am a member of the Responsible Data Science (RDS) Lab, where my thesis work focuses on Explainable AI with Dr. Romila Pradhan. I have also been working as a Graduate TA for the last 3 semsters: CNIT 323: Basic Cyberforensics, CNIT 392: Enterprise Data Management and CNIT 175: Intoduction to Visual Programming.\nOver the summer of 2025, I did an internship at Leen, as a Data Science Intern, where I worked on building integrations for security platforms. I previously worked as a Software Engineer at Palo Alto Networks in Bengaluru for a year in the Next Generation Firewall team, working on automation of testing workflows and adding API’s to interact with the Panorama and Firewall devices. I have also completed two other internships: one at Nasdaq, in the Enterprise Blockchain team and the other at Palo Alto Networks in the same team, before I joined as a full-time employee.\nI am a classically trained Hindustani Classical vocalist, and I was in a band called Tin Pan Alley in my undergrad. I also love watching movies and travelling.\nOn this site I keep a list of my publications, projects, and my resume, as well as a technical blog."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ananya Uppal",
+    "section": "",
+    "text": "Purdue University, West Lafayette, Indiana | 4.0/4.0\nMaster of Science in Computer and Information Technology\nCoursework: Responsible Data Science, IT Data Analytics, Human-computer Interaction, Research Methods and Artificial Intelligence.\nPES University, Bangalore, India | 9.06/10\nBachelor of Technology in Computer Science and Engineering\n6-time awardee of the MRD Scholarship (40% tuition waiver offered to top 20% students)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
