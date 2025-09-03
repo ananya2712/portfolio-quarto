@@ -13,7 +13,7 @@ about:
       url: "https://github.com/ananya2712"
     - text: Resume
       icon: file-text
-      url: "./resume.pdf"
+      url: "/resume.pdf"
     - text: ananya dot uppal dot in at gmail dot com
       icon: envelope
       url: "mailto:ananya.uppal.in@gmail.com"
@@ -33,7 +33,7 @@ I previously worked as a <b>Software Engineer at Palo Alto Networks</b> in Benga
 
 I am a classically trained Hindustani Classical vocalist, and I was in a band called *Tin Pan Alley* in my undergrad. I also love watching movies and travelling.
 
-On this site I keep a list of my [publications](papers.qmd), [projects](#projects), and my [resume](./resume.pdf), as well as a [technical blog](blog_landing.qmd).
+On this site I keep a list of my [publications](papers.qmd), [projects](#projects), and my [resume](/resume.pdf), as well as a [technical blog](blog_landing.qmd).
 
 ## Education
 
