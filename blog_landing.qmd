@@ -1,0 +1,20 @@
+---
+format: html
+page-layout: full
+---
+
+::: {.column-page}
+## Coming Soon! 
+
+I'm currently working on some exciting technical content for my blog. 
+
+**What to expect:**
+
+- Deep dives into AI and machine learning concepts
+- Technical tutorials and code walkthroughs
+- Research insights and industry trends
+- Personal experiences and learnings
+
+Stay tuned for updates! In the meantime, feel free to check out my [projects](projects.qmd) and [publications](papers.qmd).
+
+:::

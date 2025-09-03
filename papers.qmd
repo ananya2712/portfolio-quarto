@@ -1,0 +1,98 @@
+---
+title: ""
+format: html
+---
+
+## Research Experience
+
+### Responsible AI Research
+**RDS Lab, Purdue University** | Aug 2024 - Present
+
+Working on Explainable AI research under Dr. Romila Pradhan, focusing on:
+
+- Developing interpretable machine learning models 
+- Investigating fairness and bias in AI systems
+- Creating tools for AI transparency and accountability
+
+## Conference Publications
+
+### An Interpretable Hybrid Recommender Based on Graph Convolution to Address Serendipity
+**Published at CCCE'23** | Presented at Stockholm, Sweden in March 2023
+
+::: {.paper-details}
+This research introduces a novel approach to recommendation systems by combining graph convolutional networks with traditional recommendation methods to enhance serendipity in recommendations. Key contributions include:
+
+- Developed a 4-model hybrid architecture integrating graph convolutional networks
+- Formulated a new distance-based metric for measuring recommendation serendipity
+- Enhanced interpretability through KNN feature importance analysis
+- Demonstrated improved recommendation diversity while maintaining accuracy
+
+[View Publication](https://example.com/paper1){.btn .btn-primary} [View Slides](https://example.com/slides1){.btn .btn-outline-primary}
+:::
+
+### RePI: Research Paper Impact Analysis
+**Published at ISDA'22** | Presented in December 2022
+
+::: {.paper-details}
+Developed a comprehensive web application for analyzing research paper impact using advanced metrics and visualization techniques. Project highlights:
+
+- Created an intuitive web interface using Python and Streamlit
+- Integrated with Semantic Scholar API for comprehensive paper analysis
+- Developed a novel impact factor ratio for publication influence measurement
+- Implemented interactive visualizations for impact metrics
+
+[View Publication](https://example.com/paper2){.btn .btn-primary} [View Demo](https://example.com/demo){.btn .btn-outline-primary}
+:::
+
+
+
+<style>
+.paper-details {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: var(--background-light);
+  border-radius: 8px;
+  border-left: 4px solid var(--primary-color);
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin-right: 1rem;
+  margin-top: 1rem;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  color: var(--text-light);
+  border: none;
+}
+
+.btn-outline-primary {
+  background-color: transparent;
+  color: var(--primary-color);
+  border: 1px solid var(--primary-color);
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+h3 {
+  color: var(--primary-color);
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.column-page {
+  background-color: var(--text-light);
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 20px rgba(107, 91, 149, 0.08);
+  margin-top: 2rem;
+}
+</style>

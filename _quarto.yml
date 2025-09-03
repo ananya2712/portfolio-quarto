@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Ananya Uppal"
+  navbar:
+    background: "#004080"
+    foreground: "#000000"
+    title: "Ananya Uppal"
+    right:
+      - text: "Papers"
+        icon: journal-text
+        href: papers.qmd
+      - text: "Projects"
+        icon: journal-text
+        href: projects.qmd
+      - text: "Blog"
+        icon: journal-text
+        href: blog_landing.qmd
+      - text: "Resume"
+        icon: journal-text
+        href: resume.pdf
+  page-footer:
+    center: "© 2025 Ananya Uppal. All rights reserved."
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    include-in-header: 
+      - text: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">

@@ -1,0 +1,53 @@
+---
+title: "Ananya Uppal"
+
+image: resume_picture.jpg
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/ananya-uppal-a40915214/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/ananya2712"
+    - text: Resume
+      icon: file-text
+      url: "resume.pdf"
+    - text: ananya dot uppal dot in at gmail dot com
+      icon: envelope
+      url: "mailto:ananya.uppal.in@gmail.com"
+comments: false
+---
+
+::: {.column-page}
+
+## About Me
+
+I'm a second-year graduate student pursuing a Master's in <b>Computer and Information Technology at Purdue University</b>, West Lafayette. 
+
+I am a member of the <b>Responsible Data Science (RDS) Lab</b>, where my thesis work focuses on Explainable AI with Dr. Romila Pradhan. I have also been working as a Graduate TA for the last 3 semsters: CNIT 323: Basic Cyberforensics, CNIT 392: Enterprise Data Management and CNIT 175: Intoduction to Visual Programming.
+
+Over the summer of 2025, I did an internship at <b>Leen</b>, as a <b>Data Science Intern</b>, where I worked on building integrations for security platforms.
+I previously worked as a <b>Software Engineer at Palo Alto Networks</b> in Bengaluru for a year in the Next Generation Firewall team, working on automation of testing workflows and adding API's to interact with the Panorama and Firewall devices. I have also completed two other internships: one at Nasdaq, in the Enterprise Blockchain team and the other at Palo Alto Networks in the same team, before I joined as a full-time employee.
+
+I am a classically trained Hindustani Classical vocalist, and I was in a band called *Tin Pan Alley* in my undergrad. I also love watching movies and travelling.
+
+On this site I keep a list of my [publications](papers.qmd), [projects](#projects), and my [resume](resume.pdf), as well as a [technical blog](blog_landing.qmd).
+
+## Education
+
+**Purdue University, West Lafayette, Indiana** | 4.0/4.0  
+*Master of Science in Computer and Information Technology*
+
+Coursework: Responsible Data Science, IT Data Analytics, Human-computer Interaction, Research Methods and Artificial Intelligence.
+
+**PES University, Bangalore, India** | 9.06/10  
+*Bachelor of Technology in Computer Science and Engineering*
+
+6-time awardee of the MRD Scholarship (40% tuition waiver offered to top 20% students)
+
+<p></p>
+
+:::
+

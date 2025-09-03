@@ -1,0 +1,82 @@
+---
+title: "Exploring Explainable AI: Making Machine Learning Models More Transparent"
+description: "A deep dive into the importance of interpretability in AI systems and current research directions"
+author: "Ananya Uppal"
+date: "2024-03-14"
+categories: [Machine Learning, Research, AI Ethics]
+image: "https://db0dce98.rocketcdn.me/en/files/2024/01/xai-1.webp"
+---
+
+## Introduction
+
+As AI systems become increasingly complex and widespread, the need for explainability and interpretability has never been more crucial. In this post, I'll share insights from my research in Explainable AI (XAI) at Purdue University's RDS Lab.
+
+## Why Explainable AI Matters
+
+Machine learning models, especially deep neural networks, often operate as "black boxes." While they can achieve impressive performance, understanding their decision-making process remains challenging. This lack of transparency can be problematic in:
+
+- Healthcare decisions
+- Financial services
+- Legal systems
+- Security applications
+
+## Current Research Directions
+
+### 1. Feature Attribution Methods
+
+One approach to explaining model decisions is understanding which input features contributed most to the output:
+
+```python
+# Example using SHAP values
+import shap
+explainer = shap.TreeExplainer(model)
+shap_values = explainer.shap_values(X)
+```
+
+### 2. Interpretable Architectures
+
+Some research focuses on developing inherently interpretable models:
+
+- Decision trees
+- Rule-based systems
+- Attention mechanisms in neural networks
+
+## Challenges and Future Work
+
+The field of XAI faces several challenges:
+
+1. Balancing accuracy with interpretability
+2. Developing standardized evaluation metrics
+3. Making explanations useful for non-technical users
+
+## Conclusion
+
+As we continue our research at the RDS Lab, we're working on novel approaches to make AI systems more transparent and trustworthy. Stay tuned for more updates on our progress!
+
+## References
+
+1. Molnar, C. (2022). Interpretable Machine Learning
+2. Ribeiro, M. T., et al. (2016). "Why Should I Trust You?: Explaining the Predictions of Any Classifier"
+
+::: {.callout-note}
+This is part of my ongoing research at Purdue University. For more information, check out my [publications](../papers.qmd).
+:::
+
+<style>
+/* Add some styling for code blocks */
+pre {
+  background-color: var(--background-light);
+  padding: 1rem;
+  border-radius: 8px;
+  overflow-x: auto;
+}
+
+/* Style for callouts */
+.callout-note {
+  margin-top: 2rem;
+  padding: 1rem;
+  border-left: 4px solid var(--primary-color);
+  background-color: var(--background-light);
+  border-radius: 0 8px 8px 0;
+}
+</style> 

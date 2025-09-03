@@ -1,0 +1,7 @@
+## Publications
+
+**An Interpretable Hybrid Recommender Based on Graph Convolution to Address Serendipity** | Published at CCCE'23 - Presented at Stockholm, Sweden in March 2023  
+Introduced a 4-model hybrid model utilising graph convolutional networks to augment recommendation serendipity. Formulated a novel distance-based serendipity metric and improved interpretability through KNN feature importance analysis.
+
+**RePI: Research Paper Impact Analysis** | Published at ISDA'22 - Presented in December 2022  
+Created a web application in Python (Streamlit) to analyze the impact of research papers using Semantic Scholar API using DOI. Formulated a unique impact factor ratio to quantify publication influence.
