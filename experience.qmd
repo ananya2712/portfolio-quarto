@@ -1,0 +1,48 @@
+---
+title: ""
+format: html
+---
+
+## Industry Experience
+
+### Data Science Intern, ***Leen** · July 2025 – August 2025*
+
+- Designed connectors for API-based data models to map and consolidate GRC entity, evidence, assessment, and controls data from ServiceNow GRC, OneTrust, and Archer
+- Interacted directly with customers to introduce new data fields for connector integrations in a startup environment
+
+---
+
+### Software Engineer
+**Palo Alto Networks, Bengaluru** · August 2023 – August 2024
+
+- Developed automated functional testing workflows using Jenkins for VM and hardware-based Panorama and Firewall devices
+- Boosted automated test suite to ensure critical certificate values are updated across 8 OS releases and 12 million devices
+
+---
+
+### Software Engineer Intern
+**Palo Alto Networks** · January 2023 – August 2023
+
+- Reduced automation backlog by 30% through test case integration into regression suites using pytest and gnmic
+- Expanded REST APIs across 6+ PanOS releases to facilitate PanOS UI interaction using Selenium for streaming telemetry
+
+---
+
+### Software Engineer Intern
+**Nasdaq** · June 2022 – July 2022
+
+- Conducted performance-based analysis of enterprise blockchains (VMware Blockchain, Hyperledger Fabric/Besu, R3 Corda) for proprietary use cases
+- Utilized Hyperledger Caliper for comprehensive evaluation across 17+ criteria
+- Analyzed blockchain performance metrics and provided optimization recommendations
+
+---
+
+## Academic
+
+### Graduate Teaching Assistant
+**Purdue University** · Fall 2024 – Present
+
+- CNIT 323: Basic Cyberforensics
+- CNIT 392: Enterprise Data Management
+- CNIT 175: Introduction to Visual Programming
+

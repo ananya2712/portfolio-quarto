@@ -277,11 +277,11 @@ h2:first-of-type {
 
 /* Publications and Projects */
 .column-page {
-  background-color: var(--text-light);
-  border-radius: 12px;
-  padding: 1rem;
-  box-shadow: 0 4px 20px rgba(107, 91, 149, 0.08);
+  padding: 1rem 0;
   margin-top: 80px;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Publication Titles */
@@ -292,6 +292,38 @@ h2:first-of-type {
 /* Project Descriptions */
 .column-page p {
   margin-bottom: 1.5rem;
+}
+
+/* Experience/Projects section styling */
+.column-page h2 {
+  margin-top: 2rem;
+  margin-bottom: 1.25rem;
+}
+
+.column-page h2:first-child {
+  margin-top: 0;
+}
+
+.column-page h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.column-page h3 + p {
+  margin-bottom: 0.75rem;
+  color: var(--text-dark);
+  font-size: 0.95rem;
+}
+
+.column-page ul {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.column-page hr {
+  margin: 1.5rem 0;
+  border-color: var(--border-color);
 }
 
 /* Responsive Design */

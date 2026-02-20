@@ -13,7 +13,7 @@ about:
       url: "https://github.com/ananya2712"
     - text: Resume
       icon: file-text
-      url: "/resume.pdf"
+      url: "resume.pdf"
     - text: ananya dot uppal dot in at gmail dot com
       icon: envelope
       url: "mailto:ananya.uppal.in@gmail.com"
@@ -24,7 +24,7 @@ comments: false
 
 ## About Me
 
-I'm a second-year graduate student pursuing a Master's in <b>Computer and Information Technology at Purdue University</b>, West Lafayette. 
+I'm a second-year graduate student pursuing a Master's in <b>Computer and Information Technology at Purdue University</b>, West Lafayette. I plan to graduate in <b>Spring 2026</b> and am actively looking for full-time opportunities in the field of AI and cybersecurity.
 
 I am a member of the <b>Responsible Data Science (RDS) Lab</b>, where my thesis work focuses on Explainable AI with Dr. Romila Pradhan. I have also been working as a Graduate TA for the last 3 semsters: CNIT 323: Basic Cyberforensics, CNIT 392: Enterprise Data Management and CNIT 175: Intoduction to Visual Programming.
 
@@ -37,12 +37,12 @@ On this site I keep a list of my [publications](papers.qmd), [projects](#project
 
 ## Education
 
-**Purdue University, West Lafayette, Indiana** | 4.0/4.0  
+**Purdue University, West Lafayette, Indiana** | **4.0 /4.0** | **Fall 2024 - Spring 2026**      
 *Master of Science in Computer and Information Technology*
 
-Coursework: Responsible Data Science, IT Data Analytics, Human-computer Interaction, Research Methods and Artificial Intelligence.
+Coursework: Responsible Data Science, IT Data Analytics, Human-computer Interaction, Research Methods, Artificial Intelligence, Social Engineering and Cybersecurity.
 
-**PES University, Bangalore, India** | 9.06/10  
+**PES University, Bangalore, India** | **9.06 / 10** | **Fall 2019 - Spring 2023**      
 *Bachelor of Technology in Computer Science and Engineering*
 
 6-time awardee of the MRD Scholarship (40% tuition waiver offered to top 20% students)

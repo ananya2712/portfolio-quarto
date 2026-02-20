@@ -8,8 +8,12 @@ website:
     background: "#004080"
     foreground: "#000000"
     title: "Ananya Uppal"
+    icon: journal-text
     right:
-      - text: "Papers"
+      - text: "Experience"
+        icon: journal-text
+        href: experience.qmd
+      - text: "Research"
         icon: journal-text
         href: papers.qmd
       - text: "Projects"
