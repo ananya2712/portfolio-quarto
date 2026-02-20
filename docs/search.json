@@ -67,7 +67,7 @@
     "href": "projects.html",
     "title": "Ananya Uppal",
     "section": "",
-    "text": "Leen | July 2025 - August 2025\n\nDesigned connectors for API-based data models to map and consolidate GRC entity, evidence, assessment, and controls data from ServiceNow GRC, OneTrust, and Archer.\nInteracted directly with customers to introduce new data fields for connector integrations in a startup environment.\n\n\n\n\n\nPalo Alto Networks | August 2023 - August 2024\n\nDeveloped comprehensive automated functional testing workflows using Jenkins for VM and hardware-based Panorama and Firewall devices.\nBoosted automated test suite to ensure critical certificate values are updated across 8 OS releases and 12 million devices.\n\n\n\n\n\nPalo Alto Networks | January 2023 - August 2023\n\nReduced automation backlog by 30%, ensuring test case integration into regression suites using pytest and gnmic.\nExpanded REST APIs in six or more PanOS releases to facilitate interaction with the PanOS UI using Selenium for streaming telemetry\n\n\n\n\n\nNasdaq | June 2022 - July 2022\n\nConducted performance-based analysis of enterprise blockchains including VMware Blockchain, Hyperledger Fabric, Hyperledger Besu, and R3 Corda for proprietary use cases\nUtilized Hyperledger Caliper for comprehensive evaluation across 17+ criteria\nAnalyzed blockchain performance metrics and provided recommendations for optimization."
+    "text": "Dow, The Data Mine | Spring 2025\n\nDeveloped a tool to predict peroxide forming proclivity of chemicals using a multi-stage machine learning pipeline\nCollected and preprocessed data from 300+ chemicals\nTrained a multi-stage XGBoost model for accurate predictions\nDeployed the solution as a web application using R Shiny for user-friendly interface\n\n\n\n\n\nBig Data Project\n\nConducted sentiment analysis on streaming tweets using Spark Streaming and PySpark\nTrained multiple machine learning models (Logistic Regression, Naive Bayes, SVM) for sentiment classification\nImplemented K-means clustering for data segmentation\nOptimized model performance through hyperparameter tuning and cross-validation"
   },
   {
     "objectID": "projects.html#work-experience",
@@ -173,5 +173,12 @@
     "title": "Ananya Uppal",
     "section": "Academic",
     "text": "Academic\n\nGraduate Teaching Assistant\nPurdue University · Fall 2024 – Present\n\nCNIT 323: Basic Cyberforensics\nCNIT 392: Enterprise Data Management\nCNIT 175: Introduction to Visual Programming"
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Ananya Uppal",
+    "section": "",
+    "text": "Dow, The Data Mine | Spring 2025\n\nDeveloped a tool to predict peroxide forming proclivity of chemicals using a multi-stage machine learning pipeline\nCollected and preprocessed data from 300+ chemicals\nTrained a multi-stage XGBoost model for accurate predictions\nDeployed the solution as a web application using R Shiny for user-friendly interface\n\n\n\n\n\nBig Data Project\n\nConducted sentiment analysis on streaming tweets using Spark Streaming and PySpark\nTrained multiple machine learning models (Logistic Regression, Naive Bayes, SVM) for sentiment classification\nImplemented K-means clustering for data segmentation\nOptimized model performance through hyperparameter tuning and cross-validation"
   }
 ]
