@@ -5,16 +5,16 @@ format: html
 
 ## Research Experience
 
-### Responsible AI Research
+### Responsible Data Science Research
+
+::: {.paper-details}
 **RDS Lab, Purdue University** | Aug 2024 - Present
 
-Working on Explainable AI research under Dr. Romila Pradhan, focusing on:
+Working on identifying the role of data valuation techniques in detecting and repairing data quality issues in ML pipelines under Dr. Romila Pradhan, focusing on:
 
-- Developing interpretable machine learning models 
-- Investigating fairness and bias in AI systems
-- Creating tools for AI transparency and accountability
-
-## Conference Publications
+- Can data valuation methods identify erroneous training points?
+- Can correcting highly-valued data points improve pipeline accuracy and fairness?
+:::
 
 ### An Interpretable Hybrid Recommender Based on Graph Convolution to Address Serendipity
 **Published at CCCE'23** | Presented at Stockholm, Sweden in March 2023
