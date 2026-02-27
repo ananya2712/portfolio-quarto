@@ -63,48 +63,6 @@
     "text": "References\n\nMolnar, C. (2022). Interpretable Machine Learning\nRibeiro, M. T., et al. (2016). “Why Should I Trust You?: Explaining the Predictions of Any Classifier”\n\n\n\n\n\n\n\nNote\n\n\n\nThis is part of my ongoing research at Purdue University. For more information, check out my publications."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Ananya Uppal",
-    "section": "",
-    "text": "Dow, The Data Mine | Spring 2025\n\nDeveloped a tool to predict peroxide forming proclivity of chemicals using a multi-stage machine learning pipeline\nCollected and preprocessed data from 300+ chemicals\nTrained a multi-stage XGBoost model for accurate predictions\nDeployed the solution as a web application using R Shiny for user-friendly interface\n\n\n\n\n\nBig Data Project\n\nConducted sentiment analysis on streaming tweets using Spark Streaming and PySpark\nTrained multiple machine learning models (Logistic Regression, Naive Bayes, SVM) for sentiment classification\nImplemented K-means clustering for data segmentation\nOptimized model performance through hyperparameter tuning and cross-validation"
-  },
-  {
-    "objectID": "projects.html#work-experience",
-    "href": "projects.html#work-experience",
-    "title": "Ananya Uppal",
-    "section": "",
-    "text": "Leen | July 2025 - August 2025\n\nDesigned connectors for API-based data models to map and consolidate GRC entity, evidence, assessment, and controls data from ServiceNow GRC, OneTrust, and Archer.\nInteracted directly with customers to introduce new data fields for connector integrations in a startup environment.\n\n\n\n\n\nPalo Alto Networks | August 2023 - August 2024\n\nDeveloped comprehensive automated functional testing workflows using Jenkins for VM and hardware-based Panorama and Firewall devices.\nBoosted automated test suite to ensure critical certificate values are updated across 8 OS releases and 12 million devices.\n\n\n\n\n\nPalo Alto Networks | January 2023 - August 2023\n\nReduced automation backlog by 30%, ensuring test case integration into regression suites using pytest and gnmic.\nExpanded REST APIs in six or more PanOS releases to facilitate interaction with the PanOS UI using Selenium for streaming telemetry\n\n\n\n\n\nNasdaq | June 2022 - July 2022\n\nConducted performance-based analysis of enterprise blockchains including VMware Blockchain, Hyperledger Fabric, Hyperledger Besu, and R3 Corda for proprietary use cases\nUtilized Hyperledger Caliper for comprehensive evaluation across 17+ criteria\nAnalyzed blockchain performance metrics and provided recommendations for optimization."
-  },
-  {
-    "objectID": "projects.html#selected-projects",
-    "href": "projects.html#selected-projects",
-    "title": "Ananya Uppal",
-    "section": "Selected Projects",
-    "text": "Selected Projects\n\nTime Sensitive Chemical Identification Tool\nDow, The Data Mine | Spring 2025\n\nDeveloped a tool to predict peroxide forming proclivity of chemicals using a multi-stage machine learning pipeline\nCollected and preprocessed data from 300+ chemicals\nTrained a multi-stage XGBoost model for accurate predictions\nDeployed the solution as a web application using R Shiny for user-friendly interface\n\n\n\n\nTweet Sentiment Analysis using Spark Streaming with Hadoop\nBig Data Project\n\nConducted sentiment analysis on streaming tweets using Spark Streaming and PySpark\nTrained multiple machine learning models (Logistic Regression, Naive Bayes, SVM) for sentiment classification\nImplemented K-means clustering for data segmentation\nOptimized model performance through hyperparameter tuning and cross-validation"
-  },
-  {
-    "objectID": "papers.html",
-    "href": "papers.html",
-    "title": "Ananya Uppal",
-    "section": "",
-    "text": "RDS Lab, Purdue University | Aug 2024 - Present\nWorking on identifying the role of data valuation techniques in detecting and repairing data quality issues in ML pipelines under Dr. Romila Pradhan, focusing on:\n\nCan data valuation methods identify erroneous training points?\nCan correcting highly-valued data points improve pipeline accuracy and fairness?\n\n\n\n\n\nPublished at CCCE’23 | Presented at Stockholm, Sweden in March 2023\n\nThis research introduces a novel approach to recommendation systems by combining graph convolutional networks with traditional recommendation methods to enhance serendipity in recommendations. Key contributions include:\n\nDeveloped a 4-model hybrid architecture integrating graph convolutional networks\nFormulated a new distance-based metric for measuring recommendation serendipity\nEnhanced interpretability through KNN feature importance analysis\nDemonstrated improved recommendation diversity while maintaining accuracy\n\nView Publication View Slides\n\n\n\n\nPublished at ISDA’22 | Presented in December 2022\n\nDeveloped a comprehensive web application for analyzing research paper impact using advanced metrics and visualization techniques. Project highlights:\n\nCreated an intuitive web interface using Python and Streamlit\nIntegrated with Semantic Scholar API for comprehensive paper analysis\nDeveloped a novel impact factor ratio for publication influence measurement\nImplemented interactive visualizations for impact metrics\n\nView Publication View Demo"
-  },
-  {
-    "objectID": "papers.html#research-experience",
-    "href": "papers.html#research-experience",
-    "title": "Ananya Uppal",
-    "section": "",
-    "text": "RDS Lab, Purdue University | Aug 2024 - Present\nWorking on identifying the role of data valuation techniques in detecting and repairing data quality issues in ML pipelines under Dr. Romila Pradhan, focusing on:\n\nCan data valuation methods identify erroneous training points?\nCan correcting highly-valued data points improve pipeline accuracy and fairness?\n\n\n\n\n\nPublished at CCCE’23 | Presented at Stockholm, Sweden in March 2023\n\nThis research introduces a novel approach to recommendation systems by combining graph convolutional networks with traditional recommendation methods to enhance serendipity in recommendations. Key contributions include:\n\nDeveloped a 4-model hybrid architecture integrating graph convolutional networks\nFormulated a new distance-based metric for measuring recommendation serendipity\nEnhanced interpretability through KNN feature importance analysis\nDemonstrated improved recommendation diversity while maintaining accuracy\n\nView Publication View Slides\n\n\n\n\nPublished at ISDA’22 | Presented in December 2022\n\nDeveloped a comprehensive web application for analyzing research paper impact using advanced metrics and visualization techniques. Project highlights:\n\nCreated an intuitive web interface using Python and Streamlit\nIntegrated with Semantic Scholar API for comprehensive paper analysis\nDeveloped a novel impact factor ratio for publication influence measurement\nImplemented interactive visualizations for impact metrics\n\nView Publication View Demo"
-  },
-  {
-    "objectID": "papers.html#conference-publications",
-    "href": "papers.html#conference-publications",
-    "title": "Ananya Uppal",
-    "section": "Conference Publications",
-    "text": "Conference Publications\n\nAn Interpretable Hybrid Recommender Based on Graph Convolution to Address Serendipity\nPublished at CCCE’23 | Presented at Stockholm, Sweden in March 2023\n\nThis research introduces a novel approach to recommendation systems by combining graph convolutional networks with traditional recommendation methods to enhance serendipity in recommendations. Key contributions include:\n\nDeveloped a 4-model hybrid architecture integrating graph convolutional networks\nFormulated a new distance-based metric for measuring recommendation serendipity\nEnhanced interpretability through KNN feature importance analysis\nDemonstrated improved recommendation diversity while maintaining accuracy\n\nView Publication View Slides\n\n\n\nRePI: Research Paper Impact Analysis\nPublished at ISDA’22 | Presented in December 2022\n\nDeveloped a comprehensive web application for analyzing research paper impact using advanced metrics and visualization techniques. Project highlights:\n\nCreated an intuitive web interface using Python and Streamlit\nIntegrated with Semantic Scholar API for comprehensive paper analysis\nDeveloped a novel impact factor ratio for publication influence measurement\nImplemented interactive visualizations for impact metrics\n\nView Publication View Demo"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ananya Uppal",
@@ -126,25 +84,32 @@
     "text": "Purdue University, West Lafayette, Indiana | 4.0 /4.0 | Fall 2024 - Spring 2026\nMaster of Science in Computer and Information Technology\nCoursework: Responsible Data Science, IT Data Analytics, Human-computer Interaction, Research Methods, Artificial Intelligence, Social Engineering and Cybersecurity.\nPES University, Bangalore, India | 9.06 / 10 | Fall 2019 - Spring 2023\nBachelor of Technology in Computer Science and Engineering\n6-time awardee of the MRD Scholarship (40% tuition waiver offered to top 20% students)"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
+    "objectID": "papers.html",
+    "href": "papers.html",
     "title": "Ananya Uppal",
     "section": "",
-    "text": "Data Science Intern | Leen | Summer 2025\nBuilding integrations for security platforms; designed connectors for GRC data from ServiceNow, OneTrust, and Archer.\nSoftware Engineer | Palo Alto Networks, Bengaluru | Aug 2023 - Aug 2024\nNext Generation Firewall team: automation of testing workflows, APIs for Panorama and Firewall devices.\nSoftware Engineer Intern | Palo Alto Networks | Jan 2023 - Aug 2023\nAutomated testing with Jenkins; REST APIs for PanOS releases; Selenium for streaming telemetry.\nSoftware Engineer Intern | Nasdaq | Jun 2022 - Jul 2022\nPerformance analysis of enterprise blockchains (VMware, Hyperledger Fabric/Besu, R3 Corda).\nResearch | RDS Lab, Purdue University | Aug 2024 - Present\nExplainable AI with Dr. Romila Pradhan. Graduate TA: CNIT 323, CNIT 392, CNIT 175."
+    "text": "RDS Lab, Purdue University | Aug 2024 - Present\nWorking on identifying the role of data valuation techniques in detecting and repairing data quality issues in ML pipelines under Dr. Romila Pradhan, focusing on:\n\nCan data valuation methods identify erroneous training points?\nCan correcting highly-valued data points improve pipeline accuracy and fairness?\n\n\n\n\n\nPublished at CCCE’23 | Presented at Stockholm, Sweden in March 2023\n\nThis research introduces a novel approach to recommendation systems by combining graph convolutional networks with traditional recommendation methods to enhance serendipity in recommendations. Key contributions include:\n\nDeveloped a 4-model hybrid architecture integrating graph convolutional networks\nFormulated a new distance-based metric for measuring recommendation serendipity\nEnhanced interpretability through KNN feature importance analysis\nDemonstrated improved recommendation diversity while maintaining accuracy\n\nView Publication View Slides\n\n\n\n\nPublished at ISDA’22 | Presented in December 2022\n\nDeveloped a comprehensive web application for analyzing research paper impact using advanced metrics and visualization techniques. Project highlights:\n\nCreated an intuitive web interface using Python and Streamlit\nIntegrated with Semantic Scholar API for comprehensive paper analysis\nDeveloped a novel impact factor ratio for publication influence measurement\nImplemented interactive visualizations for impact metrics\n\nView Publication View Demo"
   },
   {
-    "objectID": "papers.html#experience",
-    "href": "papers.html#experience",
+    "objectID": "papers.html#research-experience",
+    "href": "papers.html#research-experience",
     "title": "Ananya Uppal",
     "section": "",
-    "text": "Leen | July 2025 - August 2025\n\nDesigned connectors for API-based data models to map and consolidate GRC entity, evidence, assessment, and controls data from ServiceNow GRC, OneTrust, and Archer.\nInteracted directly with customers to introduce new data fields for connector integrations in a startup environment.\n\n\n\n\n\nPalo Alto Networks | August 2023 - August 2024\n\nDeveloped comprehensive automated functional testing workflows using Jenkins for VM and hardware-based Panorama and Firewall devices.\nBoosted automated test suite to ensure critical certificate values are updated across 8 OS releases and 12 million devices.\n\n\n\n\n\nPalo Alto Networks | January 2023 - August 2023\n\nReduced automation backlog by 30%, ensuring test case integration into regression suites using pytest and gnmic.\nExpanded REST APIs in six or more PanOS releases to facilitate interaction with the PanOS UI using Selenium for streaming telemetry\n\n\n\n\n\nNasdaq | June 2022 - July 2022\n\nConducted performance-based analysis of enterprise blockchains including VMware Blockchain, Hyperledger Fabric, Hyperledger Besu, and R3 Corda for proprietary use cases\nUtilized Hyperledger Caliper for comprehensive evaluation across 17+ criteria\nAnalyzed blockchain performance metrics and provided recommendations for optimization.\n\n\n\n\n\nPurdue University | Fall 2024 - Present\n\nCNIT 323: Basic Cyberforensics\nCNIT 392: Enterprise Data Management\nCNIT 175: Intoduction to Visual Programming"
+    "text": "RDS Lab, Purdue University | Aug 2024 - Present\nWorking on identifying the role of data valuation techniques in detecting and repairing data quality issues in ML pipelines under Dr. Romila Pradhan, focusing on:\n\nCan data valuation methods identify erroneous training points?\nCan correcting highly-valued data points improve pipeline accuracy and fairness?\n\n\n\n\n\nPublished at CCCE’23 | Presented at Stockholm, Sweden in March 2023\n\nThis research introduces a novel approach to recommendation systems by combining graph convolutional networks with traditional recommendation methods to enhance serendipity in recommendations. Key contributions include:\n\nDeveloped a 4-model hybrid architecture integrating graph convolutional networks\nFormulated a new distance-based metric for measuring recommendation serendipity\nEnhanced interpretability through KNN feature importance analysis\nDemonstrated improved recommendation diversity while maintaining accuracy\n\nView Publication View Slides\n\n\n\n\nPublished at ISDA’22 | Presented in December 2022\n\nDeveloped a comprehensive web application for analyzing research paper impact using advanced metrics and visualization techniques. Project highlights:\n\nCreated an intuitive web interface using Python and Streamlit\nIntegrated with Semantic Scholar API for comprehensive paper analysis\nDeveloped a novel impact factor ratio for publication influence measurement\nImplemented interactive visualizations for impact metrics\n\nView Publication View Demo"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Ananya Uppal",
+    "section": "",
+    "text": "Dow, The Data Mine\n\nDeveloped a tool to predict peroxide forming proclivity of chemicals using a multi-stage machine learning pipeline\nCollected and preprocessed data from 300+ chemicals\nTrained a multi-stage XGBoost model for accurate predictions\nDeployed the solution as a web application using R Shiny for user-friendly interface\n\n\n\n\n\nBig Data Project\n\nConducted sentiment analysis on streaming tweets using Spark Streaming and PySpark\nTrained multiple machine learning models (Logistic Regression, Naive Bayes, SVM) for sentiment classification\nImplemented K-means clustering for data segmentation\nOptimized model performance through hyperparameter tuning and cross-validation"
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Ananya Uppal",
+    "section": "",
+    "text": "Dow, The Data Mine\n\nDeveloped a tool to predict peroxide forming proclivity of chemicals using a multi-stage machine learning pipeline\nCollected and preprocessed data from 300+ chemicals\nTrained a multi-stage XGBoost model for accurate predictions\nDeployed the solution as a web application using R Shiny for user-friendly interface\n\n\n\n\n\nBig Data Project\n\nConducted sentiment analysis on streaming tweets using Spark Streaming and PySpark\nTrained multiple machine learning models (Logistic Regression, Naive Bayes, SVM) for sentiment classification\nImplemented K-means clustering for data segmentation\nOptimized model performance through hyperparameter tuning and cross-validation"
   },
   {
     "objectID": "experience.html",
@@ -152,13 +117,6 @@
     "title": "Ananya Uppal",
     "section": "",
     "text": "Designed connectors for API-based data models to map and consolidate GRC entity, evidence, assessment, and controls data from ServiceNow GRC, OneTrust, and Archer\nInteracted directly with customers to introduce new data fields for connector integrations in a startup environment\n\n\n\n\n\nPalo Alto Networks, Bengaluru · August 2023 – August 2024\n\nDeveloped automated functional testing workflows using Jenkins for VM and hardware-based Panorama and Firewall devices\nBoosted automated test suite to ensure critical certificate values are updated across 8 OS releases and 12 million devices\n\n\n\n\n\nPalo Alto Networks · January 2023 – August 2023\n\nReduced automation backlog by 30% through test case integration into regression suites using pytest and gnmic\nExpanded REST APIs across 6+ PanOS releases to facilitate PanOS UI interaction using Selenium for streaming telemetry\n\n\n\n\n\nNasdaq · June 2022 – July 2022\n\nConducted performance-based analysis of enterprise blockchains (VMware Blockchain, Hyperledger Fabric/Besu, R3 Corda) for proprietary use cases\nUtilized Hyperledger Caliper for comprehensive evaluation across 17+ criteria\nAnalyzed blockchain performance metrics and provided optimization recommendations"
-  },
-  {
-    "objectID": "experience.html#experience",
-    "href": "experience.html#experience",
-    "title": "Ananya Uppal",
-    "section": "",
-    "text": "Leen | July 2025 - August 2025\n\nDesigned connectors for API-based data models to map and consolidate GRC entity, evidence, assessment, and controls data from ServiceNow GRC, OneTrust, and Archer.\nInteracted directly with customers to introduce new data fields for connector integrations in a startup environment.\n\n\n\n\n\nPalo Alto Networks | August 2023 - August 2024\n\nDeveloped comprehensive automated functional testing workflows using Jenkins for VM and hardware-based Panorama and Firewall devices.\nBoosted automated test suite to ensure critical certificate values are updated across 8 OS releases and 12 million devices.\n\n\n\n\n\nPalo Alto Networks | January 2023 - August 2023\n\nReduced automation backlog by 30%, ensuring test case integration into regression suites using pytest and gnmic.\nExpanded REST APIs in six or more PanOS releases to facilitate interaction with the PanOS UI using Selenium for streaming telemetry\n\n\n\n\n\nNasdaq | June 2022 - July 2022\n\nConducted performance-based analysis of enterprise blockchains including VMware Blockchain, Hyperledger Fabric, Hyperledger Besu, and R3 Corda for proprietary use cases\nUtilized Hyperledger Caliper for comprehensive evaluation across 17+ criteria\nAnalyzed blockchain performance metrics and provided recommendations for optimization.\n\n\n\n\n\nPurdue University | Fall 2024 - Present\n\nCNIT 323: Basic Cyberforensics\nCNIT 392: Enterprise Data Management\nCNIT 175: Intoduction to Visual Programming"
   },
   {
     "objectID": "experience.html#industry-experience",
@@ -175,10 +133,10 @@
     "text": "Academic\n\nGraduate Teaching Assistant\nPurdue University · Fall 2024 – Present\n\nCNIT 323: Basic Cyberforensics\nCNIT 392: Enterprise Data Management\nCNIT 175: Introduction to Visual Programming"
   },
   {
-    "objectID": "projects.html#projects",
-    "href": "projects.html#projects",
-    "title": "Ananya Uppal",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Dow, The Data Mine | Spring 2025\n\nDeveloped a tool to predict peroxide forming proclivity of chemicals using a multi-stage machine learning pipeline\nCollected and preprocessed data from 300+ chemicals\nTrained a multi-stage XGBoost model for accurate predictions\nDeployed the solution as a web application using R Shiny for user-friendly interface\n\n\n\n\n\nBig Data Project\n\nConducted sentiment analysis on streaming tweets using Spark Streaming and PySpark\nTrained multiple machine learning models (Logistic Regression, Naive Bayes, SVM) for sentiment classification\nImplemented K-means clustering for data segmentation\nOptimized model performance through hyperparameter tuning and cross-validation"
+    "text": "About this site"
   }
 ]

@@ -2,12 +2,10 @@
 title: ""
 format: html
 ---
-
-
 ## Projects
 
 ### Time Sensitive Chemical Identification Tool
-**Dow, The Data Mine** | Spring 2025
+**Dow, The Data Mine**
 
 - Developed a tool to predict peroxide forming proclivity of chemicals using a multi-stage machine learning pipeline
 - Collected and preprocessed data from 300+ chemicals
@@ -17,7 +15,7 @@ format: html
 ---
 
 ### Tweet Sentiment Analysis using Spark Streaming with Hadoop
-**Big Data Project**
+**Big Data Project** 
 
 - Conducted sentiment analysis on streaming tweets using Spark Streaming and PySpark
 - Trained multiple machine learning models (Logistic Regression, Naive Bayes, SVM) for sentiment classification
